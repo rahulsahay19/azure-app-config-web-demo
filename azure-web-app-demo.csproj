@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>azure_web_app_demo</RootNamespace>
+    <UserSecretsId>2c09ab3b-8cdf-4602-b545-3e26be4ae2fc</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.AppConfiguration.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="Azure.Identity" Version="1.1.1" />
+    </ItemGroup>
+</Project>

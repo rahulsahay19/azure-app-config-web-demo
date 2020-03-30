@@ -1,0 +1,7 @@
+# Azure App Configuration - Web Demo.
+
+- In this example, I have explained both authenticating with connection string and using Managed Identity as well.
+
+# TODO:
+
+- Need to integrate pipeline stuff here.
